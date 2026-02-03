@@ -22,7 +22,7 @@ By providing actionable predictions rather than descriptive statistics, this pro
 
 ### Data and Methods
 
-**Data**
+### Data
 
 **Primary Dataset:** NYC Motor Vehicle Collisions - Crashes
 
@@ -43,7 +43,7 @@ By providing actionable predictions rather than descriptive statistics, this pro
 - Street network data from OpenStreetMap for intersection characteristics
 - Traffic volume data from NYC DOT sensors
 
-**Methods**
+### Methods
 
 
 ### Project Plan

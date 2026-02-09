@@ -2,7 +2,7 @@
 
 ### Team:
 
-Adelina Dunina (login: Adelina2302) POC, Kyle Smith (login: KyleSmith20), Arya Patil
+Adelina Dunina (login: Adelina2302) POC, Kyle Smith (login: KyleSmith20), Arya Patil (login: aryap100)
 
 ### Introduction
 

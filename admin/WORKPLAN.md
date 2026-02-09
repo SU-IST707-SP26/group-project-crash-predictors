@@ -3,17 +3,17 @@
 ## Active Tasks
 
 ### Milestone 1: Data Acquisition & Exploration (Week 1-2)
-- [ ] M1.T1 — Download NYC Motor Vehicle Collisions dataset from Open Data Portal (TBD)
-- [ ] M1.T2 — Initial exploratory data analysis on collision patterns (Team)
-- [ ] M1.T3 — Analyze data quality issues (missing coordinates, null values) (TBD)
-- [ ] M1.T4 — Document dataset structure and column meanings (TBD)
-- [ ] M1.T5 — Identify stakeholder needs and success criteria (Team)
+- [✅] M1.T1 — Download NYC Motor Vehicle Collisions dataset from Open Data Portal (Adelina)
+- [✅] M1.T2 — Initial exploratory data analysis on collision patterns (Adelina)
+- [✅] M1.T3 — Analyze data quality issues (missing coordinates, null values) (Adelina)
+- [❌] M1.T4 — Document dataset structure and column meanings (Adelina)
+- [❌] M1.T5 — Identify stakeholder needs and success criteria (Adelina)
 
 ### Milestone 2: Data Cleaning & Preparation (Week 1-2)
 - [ ] M2.T1 — Handle missing latitude/longitude values (TBD)
 - [ ] M2.T2 — Geocode crashes using street names where coordinates missing (TBD)
 - [ ] M2.T3 — Clean contributing factor fields (handle "Unspecified") (TBD)
-- [ ] M2.T4 — Filter dataset to recent years (2019-present) (TBD)
+- [ ] M2.T4 — Filter dataset to recent years (2022-present) (TBD)
 - [ ] M2.T5 — Create analysis-ready dataset with clean features (TBD)
 
 ### Milestone 3: Feature Engineering (Week 3-4)
@@ -52,6 +52,10 @@
 
 ## Changelog
 
-### 2025-02-03
+### 2026-02-08
+- (Adelina) ❌ M1.T4 — NYC Open Data Portal already provides comprehensive data dictionary
+- (Adelina) ❌ M1.T5 — removed — Stakeholder needs already defined in proposal document
+
+### 2026-02-03
 - Defined 7 milestones aligned with 10-week timeline
 - Tasks to be assigned to team members once roles determined

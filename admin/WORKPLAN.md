@@ -10,18 +10,18 @@
 - [❌] M1.T5 — Identify stakeholder needs and success criteria (Adelina)
 
 ### Milestone 2: Data Cleaning & Preparation (Week 1-2)
-- [ ] M2.T1 — Handle missing latitude/longitude values (Arya)
-- [ ] M2.T2 — Geocode crashes using street names where coordinates missing (Arya
-- [ ] M2.T3 — Clean contributing factor fields (handle "Unspecified") (Arya)
-- [ ] M2.T4 — Filter dataset to recent years (2022-present) (Arya)
-- [ ] M2.T5 — Create analysis-ready dataset with clean features (Arya)
+- [✅] M2.T1 — Handle missing latitude/longitude values (Arya, Adelina)
+- [✅] M2.T2 — Geocode crashes using street names where coordinates missing (Arya, Adelina)
+- [✅] M2.T3 — Clean contributing factor fields (handle "Unspecified") (Arya, Adelina)
+- [❌] M2.T4 — Filter dataset to recent years (2022-present) (Arya, Adelina)
+- [✅] M2.T5 — Create analysis-ready dataset with clean features (Arya, Adelina)
 
 ### Milestone 3: Feature Engineering (Week 3-4)
-- [ ] M3.T1 — Extract temporal features (hour, day of week, month, season) (TBD)
-- [ ] M3.T2 — Create spatial features (borough indicators, zip code groups) (TBD)
-- [ ] M3.T3 — Encode categorical variables (vehicle types, contributing factors) (TBD)
-- [ ] M3.T4 — Engineer target variable (severity classification or count) (TBD)
-- [ ] M3.T5 — Create train/test split using temporal cutoff (TBD)
+- [ ] M3.T1 — Extract temporal features (hour, day of week, month, season) (Adelina)
+- [ ] M3.T2 — Create spatial features (borough indicators, zip code groups) (Adelina)
+- [ ] M3.T3 — Encode categorical variables (vehicle types, contributing factors) (Adelina)
+- [ ] M3.T4 — Engineer target variable (severity classification or count) (Adelina)
+- [ ] M3.T5 — Create train/test split using temporal cutoff (Adelina)
 
 ### Milestone 4: Baseline Modeling (Week 3-4)
 - [ ] M4.T1 — Implement Logistic Regression for severity prediction (TBD)
@@ -51,6 +51,9 @@
 ---
 
 ## Changelog
+
+### 2026-02-015
+- (Adelina) ❌ M2.T4 — Filter dataset to recent years (2022-present) — removed, data was downloaded pre-filtered to 2022–present directly from the NYC Open Data Portal
 
 ### 2026-02-08
 - (Adelina) ❌ M1.T4 — NYC Open Data Portal already provides comprehensive data dictionary

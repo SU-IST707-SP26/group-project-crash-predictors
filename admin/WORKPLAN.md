@@ -17,11 +17,11 @@
 - [✅] M2.T5 — Create analysis-ready dataset with clean features (Arya, Adelina)
 
 ### Milestone 3: Feature Engineering (Week 3-4)
-- [ ] M3.T1 — Extract temporal features (hour, day of week, month, season) (Adelina)
-- [ ] M3.T2 — Create spatial features (borough indicators, zip code groups) (Adelina)
-- [ ] M3.T3 — Encode categorical variables (vehicle types, contributing factors) (Adelina)
-- [ ] M3.T4 — Engineer target variable (severity classification or count) (Adelina)
-- [ ] M3.T5 — Create train/test split using temporal cutoff (Adelina)
+- [✅] M3.T1 — Extract temporal features (hour, day of week, month, season) (Adelina, Arya)
+- [✅] M3.T2 — Create spatial features (borough indicators, zip code groups) (Adelina, Arya)
+- [✅] M3.T3 — Encode categorical variables (vehicle types, contributing factors) (Adelina, Arya)
+- [✅] M3.T4 — Engineer target variable (severity classification or count) (Adelina, Arya)
+- [✅] M3.T5 — Create train/test split using temporal cutoff (Adelina, Arya)
 
 ### Milestone 4: Baseline Modeling (Week 3-4)
 - [ ] M4.T1 — Implement Logistic Regression for severity prediction (TBD)

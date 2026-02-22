@@ -24,10 +24,10 @@
 - [✅] M3.T5 — Create train/test split using temporal cutoff (Adelina, Arya)
 
 ### Milestone 4: Baseline Modeling (Week 3-4)
-- [ ] M4.T1 — Implement Logistic Regression for severity prediction (TBD)
-- [ ] M4.T2 — Implement Poisson Regression for collision counts (TBD)
-- [ ] M4.T3 — Establish baseline evaluation metrics (Precision, Recall, F1) (TBD)
-- [ ] M4.T4 — Analyze feature importance from baseline models (TBD)
+- [ ] M4.T1 — Implement Logistic Regression for severity prediction (Adelina)
+- [ ] M4.T2 — Implement Poisson Regression for collision counts (Adelina)
+- [ ] M4.T3 — Establish baseline evaluation metrics (Precision, Recall, F1) (Adelina)
+- [ ] M4.T4 — Analyze feature importance from baseline models (Adelina)
 
 ### Milestone 5: Tree-Based Models (Week 5-6)
 - [ ] M5.T1 — Implement Random Forest classifier (TBD)

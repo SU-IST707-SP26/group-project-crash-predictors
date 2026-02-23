@@ -30,11 +30,11 @@
 - [ ] M4.T4 — Analyze feature importance from baseline models (Adelina)
 
 ### Milestone 5: Tree-Based Models (Week 5-6)
-- [ ] M5.T1 — Implement Random Forest classifier (TBD)
-- [ ] M5.T2 — Implement XGBoost model (TBD)
-- [ ] M5.T3 — Implement LightGBM model (TBD)
-- [ ] M5.T4 — Hyperparameter tuning using grid search (TBD)
-- [ ] M5.T5 — Compare model performance against baseline (TBD)
+- [ ] M5.T1 — Implement Random Forest classifier (Arya)
+- [ ] M5.T2 — Implement XGBoost model (Arya)
+- [ ] M5.T3 — Implement LightGBM model (Arya)
+- [ ] M5.T4 — Hyperparameter tuning using grid search (Arya)
+- [ ] M5.T5 — Compare model performance against baseline (Arya)
 
 ### Milestone 6: Model Refinement & Validation (Week 7-8)
 - [ ] M6.T1 — Address class imbalance using SMOTE or resampling (TBD)

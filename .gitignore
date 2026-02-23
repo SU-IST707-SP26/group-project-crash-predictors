@@ -163,3 +163,8 @@ cython_debug/
 
 # Mac OS
 .DS_Store
+data/train.csv
+data/test.csv
+data/train.csv
+data/test.csv
+data/collisions_clean.csv

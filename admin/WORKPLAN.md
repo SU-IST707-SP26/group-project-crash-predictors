@@ -38,19 +38,28 @@
 
 ### Milestone 6: Model Refinement & Validation (Week 7-8)
 - [ ] M6.T1 — Address class imbalance using SMOTE or resampling (Adelina)
-- [ ] M6.T2 — Implement cross-validation for model stability (Adelina)
-- [ ] M6.T3 — Feature selection and engineering refinement (Adelina)
-- [ ] M6.T4 — Final model selection based on stakeholder needs (Adelina)
+- [ ] M6.T2 — Experimented with class imbalance with weighting rather than SMOTE (Arya)
+- [ ] M6.T3 — Implement cross-validation for model stability (Adelina)
+- [ ] M6.T4 — Feature selection and engineering refinement (Adelina)
+- [ ] M6.T5 — Final model selection based on stakeholder needs (Adelina, Arya)
+
+
 
 ### Milestone 7: Visualization & Deliverables (Week 9-10)
-- [ ] M7.T1 — Create risk heatmaps by location and time (TBD)
-- [ ] M7.T2 — Build visualization dashboard for predictions (TBD)
+- [ ] M7.T1 — Create risk heatmaps by location and time (Arya)
+- [ ] M7.T2 — Build visualization dashboard for predictions (Arya)
 - [ ] M7.T3 — Prepare final report and documentation (Team)
 - [ ] M7.T4 — Create presentation slides (Team)
 
 ---
 
 ## Changelog
+
+### 2026-03-028
+- (Arya) M7.T4 - Worked on creating presentation slides 
+
+### 2026-03-028
+- (Arya) Added M6.T2  — Wanted to experiment with weighting in addition to SMOTE as the data is not too heavily imbalanced
 
 ### 2026-02-015
 - (Adelina) ❌ M2.T4 — Filter dataset to recent years (2022-present) — removed, data was downloaded pre-filtered to 2022–present directly from the NYC Open Data Portal

@@ -37,19 +37,19 @@
 - [✅] M5.T5 — Compare model performance against baseline (Arya)
 
 ### Milestone 6: Model Refinement & Validation (Week 7-8)
-- [ ] M6.T1 — Address class imbalance using SMOTE or resampling (Adelina)
-- [ ] M6.T2 — Experimented with class imbalance with weighting rather than SMOTE (Arya)
-- [ ] M6.T3 — Implement cross-validation for model stability (Adelina)
-- [ ] M6.T4 — Feature selection and engineering refinement (Adelina)
-- [ ] M6.T5 — Final model selection based on stakeholder needs (Adelina, Arya)
+- [✅] M6.T1 — Address class imbalance using SMOTE or resampling (Adelina, Arya)
+- [✅] M6.T2 — Experimented with class imbalance with weighting rather than SMOTE (Arya)
+- [✅] M6.T3 — Implement cross-validation for model stability (Adelina, Arya)
+- [✅] M6.T4 — Feature selection and engineering refinement (Adelina, Arya)
+- [✅] M6.T5 — Final model selection based on stakeholder needs (Adelina, Arya)
 
 
 
 ### Milestone 7: Visualization & Deliverables (Week 9-10)
-- [ ] M7.T1 — Create risk heatmaps by location and time (Arya)
-- [ ] M7.T2 — Build visualization dashboard for predictions (Arya)
-- [ ] M7.T3 — Prepare final report and documentation (Team)
-- [ ] M7.T4 — Create presentation slides (Team)
+- [✅] M7.T1 — Create risk heatmaps by location and time (Adelina, Arya)
+- [✅] M7.T2 — Build visualization dashboard for predictions (Adelina, Arya)
+- [ ] M7.T3 — Prepare final report and documentation (Adelina, Arya)
+- [ ] M7.T4 — Create presentation slides (Adelina, Arya)
 
 ---
 

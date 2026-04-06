@@ -54,6 +54,8 @@
 ---
 
 ## Changelog
+### 2026-04-05
+- (Arya) M7.T4 - Worked on creating presentation slides regarding actual modeling and refinement 
 
 ### 2026-03-029
 - (Adelina) M7.T4 - Worked on creating presentation slides and interpretation of the results

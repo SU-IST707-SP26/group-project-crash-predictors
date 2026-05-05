@@ -46,6 +46,11 @@ The primary modeling target is a binary severity classification variable:
 Tho overally dataset is moderately imbalance as a result of this modeling target with ~58% being Property Damage Only while 42% is Injury or Fatal. Fatal crashes alone represent a very small fraction (~0.27%), which motivates grouping injury and fatal outcomes into a single high-severity class for predictive stability and operational usefulness.
 
 This dataset is considered high quality due to the fact it is officially collected by the NYPD and not self reported or crowd sourced. Furthermore it follows standarzied reporting forms. In addition to this it is continuously updated and used by NYC for transportation planning. Although this dataset has many spatial, temporal and descriptive factors that make it sutiable for predictive modeling, it does have issues in regards to missing borough values, geographic coordinates and “unspecified” contributing to a number of fields.
+<img width="1349" height="468" alt="Screenshot 2026-05-04 at 6 37 15 PM" src="https://github.com/user-attachments/assets/d6515587-fdf7-46cd-82bf-ca21fcdeee23" />
+<img width="1343" height="477" alt="Screenshot 2026-05-04 at 6 37 57 PM" src="https://github.com/user-attachments/assets/3065d378-e772-4ae5-97da-f0a6ed7deb84" />
+<img width="1295" height="674" alt="Screenshot 2026-05-04 at 6 38 45 PM" src="https://github.com/user-attachments/assets/1a865174-dde7-4937-9e10-05c8a047c137" />
+<img width="1274" height="588" alt="Screenshot 2026-05-04 at 6 38 15 PM" src="https://github.com/user-attachments/assets/e5058d0b-5e23-4532-870d-8fabd8643f2c" />
+
 
 ## Methods
 
@@ -102,6 +107,18 @@ Cross-validation results further confirm model stability. LightGBM and XGBoost c
 Across all models, feature importance analysis highlights consistent predictors of collision severity, including time of day (particularly rush hours), geographic location (ZIP code and borough), number of vehicles involved, vehicle type (such as SUVs, motorcycles, and E-bikes), and contributing behavioral factors such as distracted driving, failure to yield, and improper lane use. These patterns are consistent across both linear and tree-based models, reinforcing their predictive relevance.
 
 Overall, no single model dominates across all metrics. Logistic Regression provides the strongest recall and is most suitable for maximizing coverage of severe crashes, while gradient boosting models provide the strongest overall predictive performance. The hybrid model offers a balanced compromise with strong ROC-AUC but does not outperform boosting methods in identifying severe crashes. For the EMS use case, this suggests a trade-off between recall-focused linear approaches and more globally accurate nonlinear models depending on operational priorities.
+
+Cross Validation Results 
+<img width="1071" height="150" alt="Screenshot 2026-05-04 at 6 40 52 PM" src="https://github.com/user-attachments/assets/db9d616d-e57e-41f0-8af1-9f9fa24370d2" />
+
+Test Results 
+<img width="553" height="97" alt="Screenshot 2026-05-04 at 6 41 04 PM" src="https://github.com/user-attachments/assets/959beb9b-90b4-46f3-a387-91901bcf7184" />
+
+Hybrid Model Cross Validation
+<img width="278" height="103" alt="Screenshot 2026-05-04 at 6 41 25 PM" src="https://github.com/user-attachments/assets/799ff167-3959-49af-b1f6-0b5db514221a" />
+
+<img width="797" height="441" alt="Screenshot 2026-05-04 at 6 42 11 PM" src="https://github.com/user-attachments/assets/8e2a518f-03fd-4221-9e08-0c78920dce0d" />
+
 
 ## Discussion
 

@@ -166,7 +166,8 @@ Hybrid Model Cross Validation
 
 <img width="797" height="441" alt="Model Comparison" src="https://github.com/user-attachments/assets/8e2a518f-03fd-4221-9e08-0c78920dce0d" />
 
-Confusion matrices and ROC curves for all models are available in `07_milestone_model_visualization.ipynb`.
+<img src="https://drive.google.com/uc?export=view&id=1ipnxywB15jjSpIQ896fZwlbZ6zG7Zw8f" />
+
 
 ### Feature Importance
 
